@@ -1,0 +1,131 @@
+BÁO CÁO CHIA TIỀN "SIÊU CẤP"
+Ngày xuất: 21:14:41 14/06/2025
+========================================
+
+DANH SÁCH "ĐỒNG BỌN" (6 người):
+- Thái dúi
+- Thi sex
+- E Tân
+- A Tùng
+- Hiếu
+- A Minh
+
+----------------------------------------
+
+DANH SÁCH "ĂN CHƠI" (19 mục):
+* Mô tả: Taxi Hanoi => Tiên Trang
+  Số tiền: 1.200.000 ₫
+  "Đại gia" trả: Hiếu
+  Chia cho: Thái dúi, Thi sex, E Tân, A Tùng, Hiếu, A Minh
+
+* Mô tả: Ăn tối thứ 6 nhà hàng Hạnh Yến
+  Số tiền: 2.620.000 ₫
+  "Đại gia" trả: Hiếu
+  Chia cho: Thái dúi, Thi sex, E Tân, A Tùng, Hiếu, A Minh
+
+* Mô tả: Karaoke
+  Số tiền: 1.865.000 ₫
+  "Đại gia" trả: Hiếu
+  Chia cho: Thái dúi, Thi sex, E Tân, A Tùng, Hiếu, A Minh
+
+* Mô tả: Lên bar uống rượu tẹt ga
+  Số tiền: 10.200.000 ₫
+  "Đại gia" trả: Hiếu
+  Chia cho: Thái dúi, Thi sex, E Tân, A Tùng, Hiếu, A Minh
+
+* Mô tả: Taxi di chuyển tối t6
+  Số tiền: 700.000 ₫
+  "Đại gia" trả: Hiếu
+  Chia cho: Thái dúi, Thi sex, E Tân, A Tùng, Hiếu, A Minh
+
+* Mô tả: Thuê chỗ ngồi + gà + nước + bia ăn trưa
+  Số tiền: 930.000 ₫
+  "Đại gia" trả: Hiếu
+  Chia cho: A Minh
+
+* Mô tả: Taxi Tiên Trang => Hà Nội
+  Số tiền: 1.200.000 ₫
+  "Đại gia" trả: Hiếu
+  Chia cho: Thái dúi, Thi sex, E Tân, A Tùng, Hiếu, A Minh
+
+* Mô tả: Nước dừa tại bãi biển Tiên Trang
+  Số tiền: 210.000 ₫
+  "Đại gia" trả: A Minh
+  Chia cho: Thái dúi, Thi sex, E Tân, A Tùng, Hiếu, A Minh
+
+* Mô tả: Nước lọc chiều thứ 6 tại nhà nghỉ
+  Số tiền: 60.000 ₫
+  "Đại gia" trả: A Minh
+  Chia cho: Thái dúi, Thi sex, E Tân, A Tùng, Hiếu, A Minh
+
+* Mô tả: Tiền phòng + 4 chai nước sáng thứ 7
+  Số tiền: 1.140.000 ₫
+  "Đại gia" trả: A Minh
+  Chia cho: Thái dúi, Thi sex, E Tân, A Tùng, Hiếu, A Minh
+
+* Mô tả: Bún sáng sớm 2h
+  Số tiền: 350.000 ₫
+  "Đại gia" trả: A Minh
+  Chia cho: Thái dúi, Thi sex, E Tân, A Tùng, Hiếu, A Minh
+
+* Mô tả: Đồ ăn trưa thứ 7 đặt ngoài
+  Số tiền: 600.000 ₫
+  "Đại gia" trả: A Minh
+  Chia cho: A Minh
+
+* Mô tả: Nem chua Tân mua 40 cái
+  Số tiền: 200.000 ₫
+  "Đại gia" trả: A Minh
+  Chia cho: E Tân
+
+* Mô tả: Nem chua a Tùng mua 20 cái
+  Số tiền: 100.000 ₫
+  "Đại gia" trả: A Minh
+  Chia cho: A Tùng
+
+* Mô tả: Nem chua Hiếu mua 50 cái
+  Số tiền: 250.000 ₫
+  "Đại gia" trả: A Minh
+  Chia cho: Hiếu
+
+* Mô tả: Nem chua Thái dúi mua 50 cái
+  Số tiền: 250.000 ₫
+  "Đại gia" trả: A Minh
+  Chia cho: Thái dúi
+
+* Mô tả: Nem chua Thi sex mua 20 cái
+  Số tiền: 100.000 ₫
+  "Đại gia" trả: A Minh
+  Chia cho: Thi sex
+
+* Mô tả: Ăn bún trưa t6 a Minh và Hiếu
+  Số tiền: 80.000 ₫
+  "Đại gia" trả: A Minh
+  Chia cho: Hiếu, A Minh
+
+* Mô tả: Taxi ra chỗ ăn trưa
+  Số tiền: 200.000 ₫
+  "Đại gia" trả: Hiếu
+  Chia cho: Thái dúi, Thi sex, E Tân, A Tùng, Hiếu, A Minh
+
+----------------------------------------
+
+TỔNG HỢP GIAO DỊCH "CHIA CHÁC":
+- Thái dúi cần trả Hiếu: 3.540.833 ₫
+- E Tân cần trả Hiếu: 3.490.833 ₫
+- Thi sex cần trả Hiếu: 3.390.833 ₫
+- A Tùng cần trả Hiếu: 3.390.833 ₫
+- A Minh cần trả Hiếu: 1.520.833 ₫
+
+----------------------------------------
+
+SỐ DƯ "VÍ TIỀN" CUỐI CÙNG (Tham khảo):
+- Thái dúi: -3.540.833 ₫ (Cần trả)
+- Thi sex: -3.390.833 ₫ (Cần trả)
+- E Tân: -3.490.833 ₫ (Cần trả)
+- A Tùng: -3.390.833 ₫ (Cần trả)
+- Hiếu: 15.334.167 ₫ (Nhận về)
+- A Minh: -1.520.833 ₫ (Cần trả)
+
+========================================
+Kết thúc báo cáo "công nợ".
